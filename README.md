@@ -7,7 +7,7 @@ My personal Vim Config
 git clone https://https://github.com/b1354/utsksh-vim/
 ```
 
-- Copy vim and vimrc file to your home directory (recomenden renaming it to .vim and .vimrc)
+- Copy vim and vimrc file to your home directory (i recomend renaming it to .vim and .vimrc)
 - run vim and type 
   ```
   :PlugInstall
