@@ -1,3 +1,4 @@
+console.log(result);
 " Helps force plugins to load correctly when it is turned back on below
 filetype off
 
@@ -13,6 +14,7 @@ Plug 'dmerejkowsky/vim-ale'
 Plug 'tpope/vim-surround'
 Plug 'NLKNguyen/papercolor-theme'
 Plug 'udalov/kotlin-vim'
+Plug 'tpope/vim-fugitive'
 Plug 'prettier/vim-prettier', { 'do': 'yarn install --frozen-lockfile --production' }
 call plug#end()
 
