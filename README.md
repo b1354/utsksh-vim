@@ -22,6 +22,8 @@ git clone https://https://github.com/b1354/utsksh-vim/
 - mattn/emmet-vim
 - dmerejkowsky/vim-ale
 - tpope/vim-surround
+- tpope/vim-fugitive
+- prettier/vim-pretier 
 
 # Keybind
 **Ctrl+e** = NERDTree
