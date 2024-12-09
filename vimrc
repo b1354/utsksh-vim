@@ -1,4 +1,3 @@
-console.log(result);
 " Helps force plugins to load correctly when it is turned back on below
 filetype off
 
